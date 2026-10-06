@@ -18,15 +18,15 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### [Hallownest Calculator](https://betorzdev.github.io/hallownest-calculator/)
+### [Hallownest Calculator](https://hallownestcalculator.com/)
 
 *Hollow Knight: your real game, followed live,<br>and every charm's effect on the Knight.*
 
-<a href="https://betorzdev.github.io/hallownest-calculator/"><img src="assets/hallownest.webp" alt="Hallownest Calculator: the Your game screen"></a>
+<a href="https://hallownestcalculator.com/"><img src="assets/hallownest.webp" alt="Hallownest Calculator: the Your game screen"></a>
 
 The 112% item by item · the game's own map<br>the Hunter's Journal and Godhome · builds in a fight
 
-**[Open it](https://betorzdev.github.io/hallownest-calculator/)** · [Source](https://github.com/betorzdev/hallownest-calculator)
+**[Open it](https://hallownestcalculator.com/)** · [Source](https://github.com/betorzdev/hallownest-calculator)
 
 </td>
 <td width="50%" align="center" valign="top">
